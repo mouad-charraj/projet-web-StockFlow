@@ -1,2 +1,2 @@
 # projet-web-StockFlow
-projet web gestion de stock
+Projet web gestion de stock
